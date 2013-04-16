@@ -96,6 +96,13 @@ proto.submit = function(rel) {
 };
 
 /**
+ * Embedded resources
+ *
+ * @todo implement the api
+ */
+
+
+/**
  * Create a hal client for an href
  *
  * @param {String} method
