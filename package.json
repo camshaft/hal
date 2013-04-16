@@ -1,0 +1,28 @@
+{
+  "name": "hal",
+  "version": "0.1.0",
+  "description": "json+hal client",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CamShaft/hal.git"
+  },
+  "author": "Cameron Bytheway <cameron@nujii.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "superagent": "~0.14.1",
+    "find": "https://github.com/component/find/archive/master.tar.gz",
+    "each-component": "https://github.com/CamShaft/each/archive/master.tar.gz",
+    "require-component": "~0.1.0",
+    "debug": "~0.7.2"
+  },
+  "devDependencies": {
+    "should": "~1.2.2",
+    "mocha": "~1.9.0",
+    "express": "~3.2.0"
+  }
+}

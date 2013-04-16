@@ -1,0 +1,16 @@
+{
+  "name": "hal",
+  "repo": "CamShaft/hal",
+  "description": "json+hal client",
+  "version": "0.1.0",
+  "keywords": [],
+  "dependencies": {
+    "CamShaft/superagent": "*",
+    "component/emitter": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
